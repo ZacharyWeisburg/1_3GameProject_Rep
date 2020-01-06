@@ -6,6 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+#test comment
 
 team_name = 'Team No name'
 strategy_name = 'Collude'
